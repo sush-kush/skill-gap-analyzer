@@ -101,15 +101,15 @@ def get_readiness_label(readiness_score: float) -> str:
        85 – 100  → Job-Ready
     """
     if readiness_score >= 85:
-        return "Job-Ready 🚀"
+        return "Job-Ready"
     elif readiness_score >= 70:
-        return "Advanced ⭐"
+        return "Advanced"
     elif readiness_score >= 50:
-        return "Intermediate 📈"
+        return "Intermediate"
     elif readiness_score >= 30:
-        return "Developing 🌱"
+        return "Developing"
     else:
-        return "Beginner 🔰"
+        return "Beginner"
 
 
 # ── Core scoring function ────────────────────────────────────────────────────
