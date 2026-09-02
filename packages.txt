@@ -1,2 +1,0 @@
-# No system-level packages required.
-# All dependencies are pure Python and listed in requirements.txt
