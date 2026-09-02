@@ -1,0 +1,269 @@
+{
+  "python": {
+    "description": "Core programming language for data science and ML",
+    "resources": [
+      {"title": "Python for Everybody (Coursera)", "url": "https://www.coursera.org/specializations/python", "type": "course", "duration": "4 months"},
+      {"title": "Automate the Boring Stuff with Python", "url": "https://automatetheboringstuff.com/", "type": "book", "duration": "3 weeks"},
+      {"title": "Python Official Tutorial", "url": "https://docs.python.org/3/tutorial/", "type": "docs", "duration": "1 week"}
+    ]
+  },
+  "sql": {
+    "description": "Database querying language used in almost every data role",
+    "resources": [
+      {"title": "SQL for Data Science (Coursera)", "url": "https://www.coursera.org/learn/sql-for-data-science", "type": "course", "duration": "4 weeks"},
+      {"title": "SQLZoo Interactive Tutorial", "url": "https://sqlzoo.net/", "type": "interactive", "duration": "2 weeks"},
+      {"title": "Mode SQL Tutorial", "url": "https://mode.com/sql-tutorial/", "type": "tutorial", "duration": "1 week"}
+    ]
+  },
+  "machine learning": {
+    "description": "Algorithms that learn patterns from data to make predictions",
+    "resources": [
+      {"title": "Machine Learning Specialization (Coursera - Andrew Ng)", "url": "https://www.coursera.org/specializations/machine-learning-introduction", "type": "course", "duration": "3 months"},
+      {"title": "Hands-On Machine Learning (Book)", "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/", "type": "book", "duration": "2 months"},
+      {"title": "Scikit-learn Documentation", "url": "https://scikit-learn.org/stable/user_guide.html", "type": "docs", "duration": "ongoing"}
+    ]
+  },
+  "deep learning": {
+    "description": "Neural network-based ML for complex pattern recognition",
+    "resources": [
+      {"title": "Deep Learning Specialization (Coursera - Andrew Ng)", "url": "https://www.coursera.org/specializations/deep-learning", "type": "course", "duration": "5 months"},
+      {"title": "Fast.ai Practical Deep Learning", "url": "https://course.fast.ai/", "type": "course", "duration": "3 months"},
+      {"title": "Deep Learning with Python (Book)", "url": "https://www.manning.com/books/deep-learning-with-python-second-edition", "type": "book", "duration": "2 months"}
+    ]
+  },
+  "statistics": {
+    "description": "Mathematical foundation for data analysis and ML",
+    "resources": [
+      {"title": "Statistics with Python (Coursera)", "url": "https://www.coursera.org/specializations/statistics-with-python", "type": "course", "duration": "5 months"},
+      {"title": "Khan Academy Statistics", "url": "https://www.khanacademy.org/math/statistics-probability", "type": "free", "duration": "6 weeks"},
+      {"title": "StatQuest YouTube Channel", "url": "https://www.youtube.com/c/joshstarmer", "type": "video", "duration": "ongoing"}
+    ]
+  },
+  "pandas": {
+    "description": "Python library for data manipulation and analysis",
+    "resources": [
+      {"title": "Pandas Documentation - 10 Minutes Guide", "url": "https://pandas.pydata.org/docs/user_guide/10min.html", "type": "docs", "duration": "1 day"},
+      {"title": "Pandas for Data Analysis (Wes McKinney)", "url": "https://wesmckinney.com/book/", "type": "book", "duration": "3 weeks"},
+      {"title": "Kaggle Pandas Course", "url": "https://www.kaggle.com/learn/pandas", "type": "free", "duration": "3 hours"}
+    ]
+  },
+  "numpy": {
+    "description": "Numerical computing library — foundation of scientific Python",
+    "resources": [
+      {"title": "NumPy Quickstart Tutorial", "url": "https://numpy.org/doc/stable/user/quickstart.html", "type": "docs", "duration": "2 days"},
+      {"title": "NumPy for Beginners (Real Python)", "url": "https://realpython.com/numpy-tutorial/", "type": "tutorial", "duration": "1 week"}
+    ]
+  },
+  "data visualization": {
+    "description": "Communicating insights through charts and graphs",
+    "resources": [
+      {"title": "Kaggle Data Visualization Course", "url": "https://www.kaggle.com/learn/data-visualization", "type": "free", "duration": "4 hours"},
+      {"title": "Matplotlib Official Tutorials", "url": "https://matplotlib.org/stable/tutorials/index.html", "type": "docs", "duration": "1 week"},
+      {"title": "Storytelling with Data (Book)", "url": "https://www.storytellingwithdata.com/books", "type": "book", "duration": "2 weeks"}
+    ]
+  },
+  "tensorflow": {
+    "description": "Google's open-source deep learning framework",
+    "resources": [
+      {"title": "TensorFlow Official Tutorials", "url": "https://www.tensorflow.org/tutorials", "type": "docs", "duration": "1 month"},
+      {"title": "TensorFlow Developer Certificate (Coursera)", "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice", "type": "course", "duration": "4 months"}
+    ]
+  },
+  "scikit-learn": {
+    "description": "Python's standard ML library for classical algorithms",
+    "resources": [
+      {"title": "Scikit-learn User Guide", "url": "https://scikit-learn.org/stable/user_guide.html", "type": "docs", "duration": "2 weeks"},
+      {"title": "Kaggle Intro to ML Course", "url": "https://www.kaggle.com/learn/intro-to-machine-learning", "type": "free", "duration": "3 hours"}
+    ]
+  },
+  "natural language processing": {
+    "description": "ML for processing and understanding human language",
+    "resources": [
+      {"title": "NLP Specialization (Coursera - deeplearning.ai)", "url": "https://www.coursera.org/specializations/natural-language-processing", "type": "course", "duration": "4 months"},
+      {"title": "NLTK Book (free)", "url": "https://www.nltk.org/book/", "type": "book", "duration": "1 month"}
+    ]
+  },
+  "feature engineering": {
+    "description": "Creating meaningful input features for ML models",
+    "resources": [
+      {"title": "Feature Engineering for ML (Kaggle)", "url": "https://www.kaggle.com/learn/feature-engineering", "type": "free", "duration": "5 hours"},
+      {"title": "Feature Engineering & Selection (Book)", "url": "http://www.feat.engineering/", "type": "book", "duration": "1 month"}
+    ]
+  },
+  "model evaluation": {
+    "description": "Techniques to assess model performance and avoid overfitting",
+    "resources": [
+      {"title": "Model Evaluation (Scikit-learn docs)", "url": "https://scikit-learn.org/stable/modules/model_evaluation.html", "type": "docs", "duration": "1 week"},
+      {"title": "Evaluation Metrics for ML (Towards Data Science)", "url": "https://towardsdatascience.com/", "type": "article", "duration": "2 days"}
+    ]
+  },
+  "git": {
+    "description": "Version control system — essential for all developers",
+    "resources": [
+      {"title": "Git Official Documentation", "url": "https://git-scm.com/doc", "type": "docs", "duration": "3 days"},
+      {"title": "GitHub Learning Lab", "url": "https://lab.github.com/", "type": "interactive", "duration": "1 week"},
+      {"title": "Learn Git Branching (interactive)", "url": "https://learngitbranching.js.org/", "type": "interactive", "duration": "2 days"}
+    ]
+  },
+  "docker": {
+    "description": "Containerization platform for packaging and deploying apps",
+    "resources": [
+      {"title": "Docker Getting Started", "url": "https://docs.docker.com/get-started/", "type": "docs", "duration": "1 week"},
+      {"title": "Docker for Beginners (Play with Docker)", "url": "https://training.play-with-docker.com/", "type": "interactive", "duration": "2 days"}
+    ]
+  },
+  "kubernetes": {
+    "description": "Container orchestration system for production deployments",
+    "resources": [
+      {"title": "Kubernetes Official Tutorial", "url": "https://kubernetes.io/docs/tutorials/", "type": "docs", "duration": "2 weeks"},
+      {"title": "CKAD Certification (Linux Foundation)", "url": "https://www.cncf.io/certification/ckad/", "type": "certification", "duration": "3 months"}
+    ]
+  },
+  "aws": {
+    "description": "Amazon Web Services — leading cloud platform",
+    "resources": [
+      {"title": "AWS Free Tier + Getting Started", "url": "https://aws.amazon.com/getting-started/", "type": "docs", "duration": "1 month"},
+      {"title": "AWS Certified Cloud Practitioner", "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/", "type": "certification", "duration": "2 months"}
+    ]
+  },
+  "linux": {
+    "description": "Open-source OS — essential for cloud, DevOps, and ML servers",
+    "resources": [
+      {"title": "Linux Command Line Basics (Udacity)", "url": "https://www.udacity.com/course/linux-command-line-basics--ud595", "type": "course", "duration": "1 week"},
+      {"title": "The Linux Command Line (Book - free)", "url": "https://linuxcommand.org/tlcl.php", "type": "book", "duration": "3 weeks"}
+    ]
+  },
+  "rest apis": {
+    "description": "Building and consuming RESTful web services",
+    "resources": [
+      {"title": "REST API Tutorial", "url": "https://restfulapi.net/", "type": "tutorial", "duration": "3 days"},
+      {"title": "FastAPI Official Tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "docs", "duration": "1 week"}
+    ]
+  },
+  "object-oriented programming": {
+    "description": "OOP design principles — classes, inheritance, encapsulation",
+    "resources": [
+      {"title": "OOP in Python (Real Python)", "url": "https://realpython.com/python3-object-oriented-programming/", "type": "tutorial", "duration": "1 week"},
+      {"title": "Python OOP (Corey Schafer YouTube)", "url": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM", "type": "video", "duration": "3 hours"}
+    ]
+  },
+  "data structures": {
+    "description": "Organizing and storing data efficiently",
+    "resources": [
+      {"title": "Data Structures (CS50 Harvard)", "url": "https://cs50.harvard.edu/x/", "type": "course", "duration": "2 months"},
+      {"title": "Python Data Structures (Real Python)", "url": "https://realpython.com/python-data-structures/", "type": "tutorial", "duration": "1 week"}
+    ]
+  },
+  "algorithms": {
+    "description": "Efficient problem-solving procedures",
+    "resources": [
+      {"title": "Algorithms Course (Princeton - Coursera)", "url": "https://www.coursera.org/learn/algorithms-part1", "type": "course", "duration": "6 weeks"},
+      {"title": "LeetCode Practice", "url": "https://leetcode.com/", "type": "practice", "duration": "ongoing"}
+    ]
+  },
+  "javascript": {
+    "description": "Core web programming language for front-end and back-end",
+    "resources": [
+      {"title": "JavaScript.info (free)", "url": "https://javascript.info/", "type": "tutorial", "duration": "1 month"},
+      {"title": "The Odin Project - JavaScript", "url": "https://www.theodinproject.com/paths/full-stack-javascript", "type": "free", "duration": "3 months"}
+    ]
+  },
+  "html": {
+    "description": "Markup language for structuring web pages",
+    "resources": [
+      {"title": "MDN HTML Guide (free)", "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML", "type": "docs", "duration": "1 week"},
+      {"title": "freeCodeCamp Responsive Web Design", "url": "https://www.freecodecamp.org/learn/responsive-web-design/", "type": "free", "duration": "3 weeks"}
+    ]
+  },
+  "css": {
+    "description": "Styling language for web page layout and design",
+    "resources": [
+      {"title": "MDN CSS Guide (free)", "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS", "type": "docs", "duration": "1 week"},
+      {"title": "CSS Grid / Flexbox (Kevin Powell YouTube)", "url": "https://www.youtube.com/kepowob", "type": "video", "duration": "2 weeks"}
+    ]
+  },
+  "react": {
+    "description": "JavaScript library for building user interfaces",
+    "resources": [
+      {"title": "React Official Tutorial", "url": "https://react.dev/learn", "type": "docs", "duration": "2 weeks"},
+      {"title": "Full Stack Open (Helsinki University - free)", "url": "https://fullstackopen.com/en/", "type": "course", "duration": "3 months"}
+    ]
+  },
+  "network security": {
+    "description": "Protecting computer networks from threats",
+    "resources": [
+      {"title": "CompTIA Security+ Certification", "url": "https://www.comptia.org/certifications/security", "type": "certification", "duration": "3 months"},
+      {"title": "Cybersecurity Fundamentals (IBM)", "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst", "type": "course", "duration": "8 months"}
+    ]
+  },
+  "ethical hacking": {
+    "description": "Authorized testing of systems to find vulnerabilities",
+    "resources": [
+      {"title": "CEH (EC-Council) Certification", "url": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/", "type": "certification", "duration": "3 months"},
+      {"title": "TryHackMe (interactive labs)", "url": "https://tryhackme.com/", "type": "interactive", "duration": "ongoing"}
+    ]
+  },
+  "penetration testing": {
+    "description": "Simulated cyber attacks to identify security gaps",
+    "resources": [
+      {"title": "Offensive Security OSCP", "url": "https://www.offensive-security.com/pwk-oscp/", "type": "certification", "duration": "3 months"},
+      {"title": "HackTheBox Academy", "url": "https://academy.hackthebox.com/", "type": "interactive", "duration": "ongoing"}
+    ]
+  },
+  "model deployment": {
+    "description": "Serving ML models in production environments",
+    "resources": [
+      {"title": "Deploying ML Models (Real Python)", "url": "https://realpython.com/flask-connexion-rest-api/", "type": "tutorial", "duration": "1 week"},
+      {"title": "MLflow Documentation", "url": "https://mlflow.org/docs/latest/index.html", "type": "docs", "duration": "2 weeks"}
+    ]
+  },
+  "pytorch": {
+    "description": "Meta's deep learning framework popular in research",
+    "resources": [
+      {"title": "PyTorch Official Tutorials", "url": "https://pytorch.org/tutorials/", "type": "docs", "duration": "1 month"},
+      {"title": "Deep Learning with PyTorch (Fast.ai)", "url": "https://course.fast.ai/", "type": "course", "duration": "3 months"}
+    ]
+  },
+  "power bi": {
+    "description": "Microsoft's business intelligence and visualization tool",
+    "resources": [
+      {"title": "Microsoft Power BI Learning", "url": "https://learn.microsoft.com/en-us/training/powerbi/", "type": "free", "duration": "2 weeks"},
+      {"title": "Power BI Full Course (YouTube)", "url": "https://www.youtube.com/results?search_query=power+bi+full+course", "type": "video", "duration": "1 month"}
+    ]
+  },
+  "tableau": {
+    "description": "Leading data visualization and BI platform",
+    "resources": [
+      {"title": "Tableau Free Training Videos", "url": "https://www.tableau.com/learn/training", "type": "free", "duration": "2 weeks"},
+      {"title": "Tableau Public (practice platform)", "url": "https://public.tableau.com/", "type": "practice", "duration": "ongoing"}
+    ]
+  },
+  "excel": {
+    "description": "Microsoft Excel for data analysis and spreadsheets",
+    "resources": [
+      {"title": "Excel for Data Analysis (Coursera)", "url": "https://www.coursera.org/learn/excel-data-analysis", "type": "course", "duration": "4 weeks"},
+      {"title": "Excel Basics (GCFGlobal - free)", "url": "https://edu.gcfglobal.org/en/excel/", "type": "free", "duration": "1 week"}
+    ]
+  },
+  "ci/cd": {
+    "description": "Continuous Integration and Continuous Delivery pipelines",
+    "resources": [
+      {"title": "GitHub Actions Documentation", "url": "https://docs.github.com/en/actions", "type": "docs", "duration": "1 week"},
+      {"title": "Jenkins Official Tutorial", "url": "https://www.jenkins.io/doc/tutorials/", "type": "docs", "duration": "2 weeks"}
+    ]
+  },
+  "terraform": {
+    "description": "Infrastructure as Code tool by HashiCorp",
+    "resources": [
+      {"title": "Terraform Getting Started", "url": "https://developer.hashicorp.com/terraform/tutorials", "type": "docs", "duration": "2 weeks"},
+      {"title": "Terraform Associate Certification", "url": "https://www.hashicorp.com/certification/terraform-associate", "type": "certification", "duration": "2 months"}
+    ]
+  },
+  "bash scripting": {
+    "description": "Shell scripting for automation on Linux/Unix systems",
+    "resources": [
+      {"title": "Bash Scripting Tutorial (Ryan's Tutorials)", "url": "https://ryanstutorials.net/bash-scripting-tutorial/", "type": "tutorial", "duration": "1 week"},
+      {"title": "The Linux Command Line - Bash Scripts", "url": "https://linuxcommand.org/tlcl.php", "type": "book", "duration": "1 week"}
+    ]
+  }
+}

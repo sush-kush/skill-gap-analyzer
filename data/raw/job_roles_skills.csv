@@ -1,0 +1,162 @@
+role,skill,importance,category
+Data Scientist,Python,high,programming
+Data Scientist,SQL,high,database
+Data Scientist,Machine Learning,high,ml
+Data Scientist,Statistics,high,mathematics
+Data Scientist,NumPy,high,programming
+Data Scientist,Pandas,high,programming
+Data Scientist,Data Visualization,medium,visualization
+Data Scientist,Deep Learning,medium,ml
+Data Scientist,Scikit-learn,high,ml
+Data Scientist,Matplotlib,medium,visualization
+Data Scientist,Seaborn,low,visualization
+Data Scientist,TensorFlow,medium,ml
+Data Scientist,Keras,medium,ml
+Data Scientist,Feature Engineering,high,ml
+Data Scientist,Model Evaluation,high,ml
+Data Scientist,NLP,medium,ml
+Data Scientist,Big Data,low,data_engineering
+Data Scientist,Tableau,low,visualization
+Data Scientist,Power BI,low,visualization
+Data Scientist,Git,medium,tools
+Data Analyst,Python,high,programming
+Data Analyst,SQL,high,database
+Data Analyst,Excel,high,tools
+Data Analyst,Data Visualization,high,visualization
+Data Analyst,Statistics,high,mathematics
+Data Analyst,Pandas,high,programming
+Data Analyst,Power BI,medium,visualization
+Data Analyst,Tableau,medium,visualization
+Data Analyst,NumPy,medium,programming
+Data Analyst,Data Cleaning,high,data_engineering
+Data Analyst,Business Intelligence,medium,domain
+Data Analyst,Matplotlib,medium,visualization
+Data Analyst,Seaborn,low,visualization
+Data Analyst,Google Analytics,low,tools
+Data Analyst,Git,low,tools
+Data Analyst,Communication Skills,medium,soft_skills
+Machine Learning Engineer,Python,high,programming
+Machine Learning Engineer,Machine Learning,high,ml
+Machine Learning Engineer,Deep Learning,high,ml
+Machine Learning Engineer,Scikit-learn,high,ml
+Machine Learning Engineer,TensorFlow,high,ml
+Machine Learning Engineer,Keras,high,ml
+Machine Learning Engineer,NumPy,high,programming
+Machine Learning Engineer,Pandas,high,programming
+Machine Learning Engineer,Feature Engineering,high,ml
+Machine Learning Engineer,Model Deployment,high,mlops
+Machine Learning Engineer,Docker,medium,devops
+Machine Learning Engineer,REST APIs,medium,backend
+Machine Learning Engineer,SQL,medium,database
+Machine Learning Engineer,Git,high,tools
+Machine Learning Engineer,MLflow,medium,mlops
+Machine Learning Engineer,Statistics,high,mathematics
+Machine Learning Engineer,PyTorch,medium,ml
+Machine Learning Engineer,Linux,medium,tools
+AI Engineer,Python,high,programming
+AI Engineer,Machine Learning,high,ml
+AI Engineer,Deep Learning,high,ml
+AI Engineer,NLP,high,ml
+AI Engineer,Computer Vision,medium,ml
+AI Engineer,TensorFlow,high,ml
+AI Engineer,PyTorch,high,ml
+AI Engineer,Transformers,medium,ml
+AI Engineer,Hugging Face,medium,ml
+AI Engineer,Model Deployment,high,mlops
+AI Engineer,REST APIs,medium,backend
+AI Engineer,Docker,medium,devops
+AI Engineer,Kubernetes,low,devops
+AI Engineer,SQL,medium,database
+AI Engineer,Git,high,tools
+AI Engineer,Statistics,high,mathematics
+AI Engineer,Feature Engineering,high,ml
+AI Engineer,MLflow,medium,mlops
+Python Developer,Python,high,programming
+Python Developer,Object-Oriented Programming,high,programming
+Python Developer,Data Structures,high,programming
+Python Developer,Algorithms,high,programming
+Python Developer,REST APIs,high,backend
+Python Developer,Django,medium,backend
+Python Developer,Flask,medium,backend
+Python Developer,SQL,high,database
+Python Developer,Git,high,tools
+Python Developer,Unit Testing,medium,testing
+Python Developer,Linux,medium,tools
+Python Developer,Docker,low,devops
+Python Developer,HTML,low,frontend
+Python Developer,NumPy,low,programming
+Python Developer,Pandas,low,programming
+Web Developer,HTML,high,frontend
+Web Developer,CSS,high,frontend
+Web Developer,JavaScript,high,frontend
+Web Developer,React,medium,frontend
+Web Developer,Node.js,medium,backend
+Web Developer,SQL,high,database
+Web Developer,REST APIs,high,backend
+Web Developer,Git,high,tools
+Web Developer,Responsive Design,medium,frontend
+Web Developer,TypeScript,medium,frontend
+Web Developer,Bootstrap,low,frontend
+Web Developer,MongoDB,medium,database
+Web Developer,Linux,low,tools
+Web Developer,Docker,low,devops
+Cloud Engineer,AWS,high,cloud
+Cloud Engineer,Azure,medium,cloud
+Cloud Engineer,Google Cloud Platform,medium,cloud
+Cloud Engineer,Linux,high,tools
+Cloud Engineer,Docker,high,devops
+Cloud Engineer,Kubernetes,high,devops
+Cloud Engineer,Terraform,medium,devops
+Cloud Engineer,CI/CD,medium,devops
+Cloud Engineer,Networking,high,infrastructure
+Cloud Engineer,Security,medium,security
+Cloud Engineer,Python,medium,programming
+Cloud Engineer,Bash Scripting,medium,programming
+Cloud Engineer,Git,high,tools
+Cloud Engineer,SQL,low,database
+Cloud Engineer,Monitoring Tools,medium,devops
+Cybersecurity Analyst,Network Security,high,security
+Cybersecurity Analyst,Ethical Hacking,high,security
+Cybersecurity Analyst,Linux,high,tools
+Cybersecurity Analyst,Python,medium,programming
+Cybersecurity Analyst,Penetration Testing,high,security
+Cybersecurity Analyst,SIEM Tools,medium,security
+Cybersecurity Analyst,Firewalls,high,security
+Cybersecurity Analyst,Cryptography,medium,security
+Cybersecurity Analyst,Vulnerability Assessment,high,security
+Cybersecurity Analyst,Incident Response,high,security
+Cybersecurity Analyst,Risk Management,medium,domain
+Cybersecurity Analyst,SQL,low,database
+Cybersecurity Analyst,Malware Analysis,medium,security
+Cybersecurity Analyst,Cloud Security,medium,security
+Cybersecurity Analyst,Compliance,low,domain
+Software Developer,Python,high,programming
+Software Developer,Java,high,programming
+Software Developer,Object-Oriented Programming,high,programming
+Software Developer,Data Structures,high,programming
+Software Developer,Algorithms,high,programming
+Software Developer,SQL,high,database
+Software Developer,Git,high,tools
+Software Developer,REST APIs,medium,backend
+Software Developer,Design Patterns,medium,programming
+Software Developer,Unit Testing,medium,testing
+Software Developer,Linux,medium,tools
+Software Developer,Agile,medium,soft_skills
+Software Developer,HTML,low,frontend
+Software Developer,JavaScript,low,frontend
+Software Developer,Docker,low,devops
+DevOps Engineer,Linux,high,tools
+DevOps Engineer,Docker,high,devops
+DevOps Engineer,Kubernetes,high,devops
+DevOps Engineer,CI/CD,high,devops
+DevOps Engineer,Jenkins,medium,devops
+DevOps Engineer,Git,high,tools
+DevOps Engineer,Terraform,medium,devops
+DevOps Engineer,Ansible,medium,devops
+DevOps Engineer,AWS,medium,cloud
+DevOps Engineer,Python,medium,programming
+DevOps Engineer,Bash Scripting,high,programming
+DevOps Engineer,Monitoring Tools,high,devops
+DevOps Engineer,Networking,medium,infrastructure
+DevOps Engineer,Security,medium,security
+DevOps Engineer,Agile,low,soft_skills
