@@ -165,7 +165,7 @@ def clean_dataset(raw_csv: str = RAW_CSV,
 
 # ── Utility: normalize a list of user-input skills ──────────────────────────
 
-def normalize_user_skills(user_skills: list, aliases: dict | None = None) -> list:
+def normalize_user_skills(user_skills: list, aliases=None) -> list:
     """
     Normalize a list of raw skill strings entered by the user.
 
